@@ -31,8 +31,8 @@
 <a href="https://github.com/ishit-07?tab=followers">
     <img src="https://img.shields.io/github/followers/ishit-07?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/Siddhant_K_code">
-    <img src="https://img.shields.io/twitter/follow/ishit-07?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/Ishitverma2">
+    <img src="https://img.shields.io/twitter/follow/Ishitverma2?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  </p>
 
