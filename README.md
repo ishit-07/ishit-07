@@ -2,6 +2,7 @@
 
 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/_ishit_07/)
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ishitverma2)
 <a href="mailto:ishitverma2602@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
@@ -31,8 +32,8 @@
 <a href="https://github.com/ishit-07?tab=followers">
     <img src="https://img.shields.io/github/followers/ishit-07?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/Ishitverma2">
-    <img src="https://img.shields.io/twitter/follow/ishit-07?label=Twitter&logo=twitter&style=for-the-badge" />
+  <a href="http://twitter.com/Ishitverma2">
+    <img src="https://img.shields.io/twitter/follow/Ishitverma2?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  </p>
 
