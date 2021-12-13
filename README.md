@@ -1,7 +1,7 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/_ishit_07/)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%">](https://www.instagram.com/_ishit_07_/)
 [<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ishitverma2)
 <a href="mailto:ishitverma2602@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
@@ -11,7 +11,7 @@
 #### 🤔 Who Am I!?
 
 - 🏫 I am a Junior pursuing a Bachelor’s degree in Electronics and Communication from the Bharati Vidyapeeth Deemed University, Pune (M.H.) [2024].
-- 🔭 I’m currently working on C programming.
+- 🔭 I’m currently working on React.
 - ♥️ I am an open-source lover.
 
 #### 👨🏻‍💻 Mostly Used Languages and Tools :
