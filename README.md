@@ -36,7 +36,7 @@
 <a href="https://github.com/ishit-07?tab=followers">
     <img src="https://img.shields.io/github/followers/ishit-07?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/Ishit_07/following">
+  <a href="https://twitter.com/Ishit_07/followers">
     <img src="https://img.shields.io/twitter/follow/Ishitverma2?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
  </p>
