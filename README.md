@@ -6,8 +6,6 @@
 <a href="mailto:ishitverma2602@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1500%20Lines%20of%20code-blue)
-
 #### 🤔 Who Am I!?
 
 - 🏫 I am a Junior pursuing a Bachelor’s degree in Electronics and Communication from the Bharati Vidyapeeth Deemed University, Pune (M.H.) [2024].
