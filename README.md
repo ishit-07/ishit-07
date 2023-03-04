@@ -6,7 +6,7 @@
 <a href="mailto:ishitverma2602@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 
-#### 🤔 Who Am I!?
+#### 🤔 Who Am I ?
 
 - 🏫 I am a Junior pursuing a Bachelor’s degree in Electronics and Communication from the Bharati Vidyapeeth Deemed University, Pune (M.H.) [2024].
 - 🔭 I’m currently working on React.
