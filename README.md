@@ -1,5 +1,7 @@
 ### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%">](https://www.instagram.com/_ishit_07_/)
 [<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ishit_07)
