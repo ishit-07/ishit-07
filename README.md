@@ -32,7 +32,9 @@
 
 
 ![Ishit's github stats](https://github-readme-stats.vercel.app/api?username=ishit-07&show_icons=true&hide_border=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishit-07&layout=compact&theme=onedark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishit-07&layout=compact&theme=onedark&token=${PAT_1})
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ishit-07&hide_border=true&border_radius=5.1)](https://git.io/streak-stats)
 
 <p align="center">
