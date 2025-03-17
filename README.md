@@ -47,7 +47,7 @@ A classic 3x3 Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**
     <img src="https://img.shields.io/github/followers/ishit-07?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://x.com/ishit__07/followers">
-    <img src="https://img.shields.io/twitter/follow/Ishitverma2?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/ishit__07?label=Twitter&logo=twitter&style=for-the-badge" alt="twitter badge" />
   </a>
 </p>
 
