@@ -1,49 +1,54 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+# Hi there, I'm Ishit Verma! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,&nbsp; I'm Ishit Verma
+🚀 **Frontend Developer | React.js | Tailwind CSS | JavaScript**
 
+I'm a passionate web developer with experience in building responsive and user-centric web applications. I enjoy exploring new technologies, improving performance, and crafting intuitive designs that enhance user experience.
 
+## 🛠️ Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS
+- **Backend:** Node.js
+- **Tools & Platforms:** Git, VS Code, Postman
+- **Other Skills:** C++, Python, Microsoft Excel
 
-[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Ishit_07)
-<a href="mailto:ishitverma2602@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%">](https://www.instagram.com/_ishit_07_/)
+## 💻 Projects
+### 🔹 [Portfolio Website](https://portfolio-website-rust-omega.vercel.app/)
+Designed and developed a fully responsive portfolio showcasing my skills, projects, and achievements.
 
+### 🔹 [Blogger](https://github.com/ishit-07/Blogger)
+A blog platform built with **React.js** and **JSON Server** featuring CRUD operations with an interactive UI.
 
-#### 🤔 Who Am I?
+### 🔹 [Weather App](https://github.com/ishit-07/Weather-app)
+Built a real-time weather app using **JavaScript** and **Weather API** for dynamic weather data updates.
 
-- 🏫 I am a Junior pursuing a Bachelor’s degree in Electronics and Communication from the Bharati Vidyapeeth Deemed University, Pune (M.H.) [2024].
-- 🔭 I’m currently working on React.
-- ♥️ I am an open-source lover.
+### 🔹 [Tic Tac Toe](https://github.com/ishit-07/TicTacToe)
+A classic 3x3 Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**.
 
-#### 👨🏻‍💻 Mostly Used Languages and Tools :
+## 📈 Experience
+**Web Developer Intern** at **Shiga**  
+- Improved website performance by **20%** through optimized code and better resource management.
+- Integrated new features and enhanced user experience with **React.js** and **JavaScript**.
 
-<img height="24" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img height="24" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-<img height="24" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145">&nbsp;&nbsp;
-<img height="24" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
+## 📫 Connect with Me
+- **LinkedIn:** [Ishit Verma](https://www.linkedin.com/in/ishit-verma/)  
+- **GitHub:** [ishit-07](https://github.com/ishit-07)  
+- **Portfolio:** [portfolio-website-rust-omega.vercel.app](https://portfolio-website-rust-omega.vercel.app/)  
 
-
-
-
-
+🌟 _"Striving to build seamless and impactful web solutions one line of code at a time."_
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=ishit-07&theme=onedark&column=3&margin-w=15&margin-h=15">
 
-
-![Ishit's github stats](https://github-readme-stats.vercel.app/api?username=ishit-07&show_icons=true&hide_border=true&theme=onedark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishit-07&layout=compact&theme=onedark&token=${PAT_1})
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ishit-07&hide_border=true&border_radius=5.1)](https://git.io/streak-stats)
 
 <p align="center">
-<a href="https://github.com/ishit-07?tab=followers">
+  <a href="https://github.com/ishit-07?tab=followers">
     <img src="https://img.shields.io/github/followers/ishit-07?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://twitter.com/Ishit_07/followers">
+  <a href="https://x.com/ishit__07/followers">
     <img src="https://img.shields.io/twitter/follow/Ishitverma2?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
- </p>
+</p>
 
 
