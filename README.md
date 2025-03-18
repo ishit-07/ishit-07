@@ -11,19 +11,6 @@ I'm a passionate web developer with experience in building responsive and user-c
 - **Tools & Platforms:** Git, VS Code, Postman
 - **Other Skills:** C++, Python, Microsoft Excel
 
-## 💻 Projects
-### 🔹 [Portfolio Website](https://portfolio-website-rust-omega.vercel.app/)
-Designed and developed a fully responsive portfolio showcasing my skills, projects, and achievements.
-
-### 🔹 [Blogger](https://github.com/ishit-07/Blogger)
-A blog platform built with **React.js** and **JSON Server** featuring CRUD operations with an interactive UI.
-
-### 🔹 [Weather App](https://github.com/ishit-07/Weather-app)
-Built a real-time weather app using **JavaScript** and **Weather API** for dynamic weather data updates.
-
-### 🔹 [Tic Tac Toe](https://github.com/ishit-07/TicTacToe)
-A classic 3x3 Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**.
-
 ## 📈 Experience
 **Web Developer Intern** at **Shiga**  
 - Improved website performance by **20%** through optimized code and better resource management.
