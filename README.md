@@ -89,24 +89,4 @@ I love working with **React**, **Next.js**, **Tailwind CSS**, and enhancing user
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ishit-07&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishit-07&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishit-verma/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/ishit-07"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://x.com/ishit__07">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="40" />
-</a>
-</p>
-
----
-
 <h3 align="center">✨ Building clean, fast, and meaningful web experiences ✨</h3>
