@@ -109,11 +109,11 @@ Full-Stack Developer with hands-on experience building production-grade web appl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishit-07&theme=tokyonight&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishit-07&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishit-07&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ishit-07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
