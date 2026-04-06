@@ -1,5 +1,5 @@
 <h1 align="center">Ishit Verma</h1>
-<h3 align="center">Full-Stack Developer · React · Next.js · Node.js · MongoDB</h3>
+<h3 align="center">Full-Stack Developer · React · Next.js · Node.js · MongoDB</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishit-07&label=Profile%20Views&color=5C6BC0&style=flat-square" />
