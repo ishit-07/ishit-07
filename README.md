@@ -112,9 +112,9 @@ Full-Stack Developer with hands-on experience building production-grade web appl
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishit-07&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=ishit-07&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
