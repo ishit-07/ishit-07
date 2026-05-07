@@ -122,7 +122,7 @@ Full-Stack Developer with hands-on experience building production-grade web appl
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishit-verma/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/ishit-07"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>&nbsp;&nbsp;
+  <!-- <a href="https://github.com/ishit-07"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>&nbsp;&nbsp; -->
 </p>
 
 ---
